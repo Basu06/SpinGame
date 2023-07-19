@@ -1,0 +1,8 @@
+C:\Dotnet\Day8\SpinGame\SpinGame\obj\Debug\SpinGame.csproj.AssemblyReference.cache
+C:\Dotnet\Day8\SpinGame\SpinGame\obj\Debug\SpinGame.csproj.SuggestedBindingRedirects.cache
+C:\Dotnet\Day8\SpinGame\SpinGame\obj\Debug\SpinGame.csproj.CoreCompileInputs.cache
+C:\Dotnet\Day8\SpinGame\SpinGame\bin\Debug\SpinGame.exe.config
+C:\Dotnet\Day8\SpinGame\SpinGame\bin\Debug\SpinGame.exe
+C:\Dotnet\Day8\SpinGame\SpinGame\bin\Debug\SpinGame.pdb
+C:\Dotnet\Day8\SpinGame\SpinGame\obj\Debug\SpinGame.exe
+C:\Dotnet\Day8\SpinGame\SpinGame\obj\Debug\SpinGame.pdb
